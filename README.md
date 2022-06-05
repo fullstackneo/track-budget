@@ -6,7 +6,7 @@
 
 ## Demo
 
-![image](https://github.com/fullstackneo/Horiseon/blob/main/screenshot/demo.png)
+![image](https://github.com/fullstackneo/track-budget/blob/main/public/assets/screenshots/screenshot.jpg)
 
 ## Link
 
